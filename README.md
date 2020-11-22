@@ -1,7 +1,7 @@
 ﻿# Titanic: Machine Learning from Disaster
 
 * ## **Classificação**:
-
+<img src="./img/ranking.png?raw=true"/>
 
 * ## **Integrantes:**
  
